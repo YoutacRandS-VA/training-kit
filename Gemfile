@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem 'html-proofer'
+gem 'html-proofer', '>= 5.0.1'
 gem 'rake'
 
 group :jekyll_plugins do
